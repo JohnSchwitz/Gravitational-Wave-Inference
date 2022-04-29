@@ -1,5 +1,5 @@
 # Gravitational-Wave-Inference
-Bayesian Inference on Gravitational Waves
+Bayesian Inference on Gravitational Waves with **Advanced Analytics**
 ## This colab notebook serves two purposes. 
 1) It is part of my Presentation on Gravitational Waves
 2) It exercises **Advanced Analytics** which I will transfer to ML Volatility Analysis
