@@ -16,5 +16,3 @@ The **Advanced Analytics** includes:
 3) **Markov Chain Monte Carlo** to determine parameters
 
 I am examining **wavelets** as an improvement on the FFTs (Fast Fourier Transforms) in **Spectral Analysis**
-
-Notebook to be added at end of May
